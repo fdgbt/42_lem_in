@@ -114,7 +114,7 @@ make fclean
 ## Map Generator
 A map generator is included in the "maps" folder.  
 It is an independant program, provided by 42, to generate random map.  
-The size of the map must be specified:
+The size of the map must be specified as below:
 - --flow-one
 - --flow-ten
 - --flow-thousand
