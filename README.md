@@ -189,22 +189,20 @@ make sfdp
 ```
 
 ## Screenshots
-Complete output for the example above:  
-![Capture d’écran du 2022-11-25 18-24-30](https://user-images.githubusercontent.com/52746061/204032877-06f854d4-a0e2-4eda-88ed-6286ce5cea8e.png)
-Using "Visu-Hex" viewer for the example above (rooms placed manually):  
-![Capture d’écran du 2022-11-25 22-52-02](https://user-images.githubusercontent.com/52746061/204058410-64525f2c-f73a-4473-839d-1b8273677f58.png)
-Using "Visu-Hex" viewer for the example above (Newton mode enabled):  
-![Capture d’écran du 2022-11-26 00-16-48](https://user-images.githubusercontent.com/52746061/204062627-ef93284b-8bec-49a3-b92b-89aded5085a7.png)
-Using "Graphviz" viewer for the example above (neato):  
-![neato-subject7](https://user-images.githubusercontent.com/52746061/204062210-c243ea72-f919-457a-9f5f-4148e02c7ff7.png)
-Using "Graphviz" viewer for the example above (sfdp):  
-![sfdp-subject7](https://user-images.githubusercontent.com/52746061/204062428-e2da07d5-9c04-4605-9146-65ad7a97529d.png)
-
-
-Using "Visu-Hex" with a map generated randomly (size big):  
-
-Using "Visu-Hex" with a map generated randomly (size flow-thousand, Newton mode enabled):  
-![capture1](https://user-images.githubusercontent.com/52746061/204061826-e853f51d-c8a7-41de-9bec-e176bdeced0f.png)
+Complete output for the example above  
+![Capture d’écran du 2022-11-25 18-24-30](https://user-images.githubusercontent.com/52746061/204032877-06f854d4-a0e2-4eda-88ed-6286ce5cea8e.png)  
+Using "Visu-Hex" viewer for the example above (rooms placed manually)  
+![Capture d’écran du 2022-11-25 22-52-02](https://user-images.githubusercontent.com/52746061/204058410-64525f2c-f73a-4473-839d-1b8273677f58.png)  
+Using "Visu-Hex" viewer for the example above (Newton mode enabled)  
+![Capture d’écran du 2022-11-26 00-16-48](https://user-images.githubusercontent.com/52746061/204062627-ef93284b-8bec-49a3-b92b-89aded5085a7.png)  
+Using "Graphviz" viewer for the example above (neato)  
+![neato-subject7](https://user-images.githubusercontent.com/52746061/204062210-c243ea72-f919-457a-9f5f-4148e02c7ff7.png)  
+Using "Graphviz" viewer for the example above (sfdp)  
+![sfdp-subject7](https://user-images.githubusercontent.com/52746061/204062428-e2da07d5-9c04-4605-9146-65ad7a97529d.png)  
+Using "Visu-Hex" with a map generated randomly (size flow-thousand)  
+![capture2](https://user-images.githubusercontent.com/52746061/204062920-acbe1bb9-8838-427f-af70-9695c59e4d7f.png)  
+Using "Visu-Hex" with a map generated randomly (size flow-thousand, Newton mode enabled)  
+![capture1](https://user-images.githubusercontent.com/52746061/204061826-e853f51d-c8a7-41de-9bec-e176bdeced0f.png)  
 
 ## Notes
 
