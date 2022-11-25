@@ -195,6 +195,9 @@ Using "Visu-Hex" viewer for the example above:
 ![Capture d’écran du 2022-11-25 22-52-02](https://user-images.githubusercontent.com/52746061/204058410-64525f2c-f73a-4473-839d-1b8273677f58.png)
 Using "Graphviz" viewer for the example above (neato):
 ![neato-subject7](https://user-images.githubusercontent.com/52746061/204062210-c243ea72-f919-457a-9f5f-4148e02c7ff7.png)
+Using "Graphviz" viewer for the example above (sfdp):
+![sfdp-subject7](https://user-images.githubusercontent.com/52746061/204062428-e2da07d5-9c04-4605-9146-65ad7a97529d.png)
+
 Using "Visu-Hex" with a map generated randomly (size: flow-thousand, Newton mode enabled)
 ![capture1](https://user-images.githubusercontent.com/52746061/204061826-e853f51d-c8a7-41de-9bec-e176bdeced0f.png)
 Using "Visu-Hex" with a map generated randomly (size: big, Newton mode disabled)
