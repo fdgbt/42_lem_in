@@ -63,9 +63,10 @@ the_links
 
 Lx-y Lz-w Lr-o [...]
 ```
-- x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y, w, o represents the rooms’ names.
+- x, z, r represents the ants' numbers (going from 1 to number_of_ants) and y, w, o represents the rooms’ names.
 
 ## Screenshots
+![Capture d’écran du 2022-11-25 18-24-30](https://user-images.githubusercontent.com/52746061/204032877-06f854d4-a0e2-4eda-88ed-6286ce5cea8e.png)
 
 
 ## Install
