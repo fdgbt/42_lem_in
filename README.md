@@ -2,7 +2,7 @@
 This project aims to simulate the course of an ants colony using Graph theory.  
 All the ants must move from point A to point B as fast as possible.  
 They must consider all different tubes (paths) and rooms (nodes) inside the network and intelligently selecting the best options that should avoid any traffic jams.  
-Indeed, the rooms (nodes) can contain only one ant at a time.
+Indeed, at each simulation lap, ants can move from a room to another using the tubes, but each room can contain only one ant at a time.
 
 ## Example
 
