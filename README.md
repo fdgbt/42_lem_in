@@ -160,7 +160,8 @@ You can now combine the "Visu-Hex" with the "lem-in" program:
 **Tips:**  
 - Use [SPACE] key to see the ants moving in live!
 - Hold the Left-Click (Mouse) on a room to change its position.
-- Use [F] key to enable the Newton mode, reorganizing the nodes in live with a funny effect!
+- Use [F] key to enable the Newton mode, reorganizing automatically the nodes in live with a funny effect!
+- Use [S] key to enable the score, displaying the number of laps in live !
 - Use the Scroll Wheel Mouse to change the size of the rooms.
 
 ## 3rd-party Viewer
