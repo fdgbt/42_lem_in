@@ -39,6 +39,8 @@ make fclean
 
 ## Usage
 
+## Viewer
+
 ## MAN (complete user manual)
 
 ## Screenshots
