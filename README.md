@@ -135,7 +135,7 @@ A unique visualisator "Visu-Hex" has been developed for this project.
 This program has the particularity to be created with the Python language.  
 
 The following packages must be installed on your system before to use the visualisator:  
-- python (python3)
+- python3
 - pip3
 
 If necessary, you can use the "Homebrew" package manager to install them.  
