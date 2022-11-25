@@ -173,12 +173,12 @@ Graphviz need to be installed on your system:
 brew install graphviz
 ```
 
-- with small map, use "neato":
+- with small map, use "neato" to maintain the original position of the rooms:
 ```
 make neato
 ```
 
-- with big map, use "sfdp":
+- with big map, use "sfdp" to position automatically the rooms:
 ```
 make sfdp
 ```
@@ -205,6 +205,7 @@ Using "Visu-Hex" viewer with a map generated randomly (size flow-thousand, Newto
 ![capture1](https://user-images.githubusercontent.com/52746061/204061826-e853f51d-c8a7-41de-9bec-e176bdeced0f.png)  
 Using "Graphviz" viewer with a map generated randomly (size flow-thousand, neato)  
 Using "Graphviz" viewer with a map generated randomly (size flow-thousand, sfdp)  
+![capture3](https://user-images.githubusercontent.com/52746061/204063433-2e0e51d0-df08-4780-adeb-5d122bafa667.png)
 
 ## Notes
 
