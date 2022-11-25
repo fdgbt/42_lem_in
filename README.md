@@ -190,4 +190,4 @@ make sfdp
 
 ## Keywords
 Graph theory  
-Depth-first search algorithm (DFS)
+Breadth-First Search algorithm (BFS)
