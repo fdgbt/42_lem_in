@@ -23,13 +23,17 @@ make re
 ## Clean
 Delete object files created during installation.
 
+```
 make clean
+```
 
 ## Uninstall
 Delete object files but also both compiled programs.  
 It will not affect the source code.
 
+```
 make fclean
+```
 
 ## Usage
 
