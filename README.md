@@ -160,6 +160,7 @@ You can now combine the "Visu-Hex" with the "lem-in" program:
 **Tips:**  
 - Use [SPACE] key to see the ants moving in live!
 - Hold the Left-Click (Mouse) on a room to change its position, release the click then look the funny graph reorganization in live!
+- Use the Scroll Wheel Mouse to change the size o the rooms!
 
 ## 3rd-party Viewer
 A special option has been implemented to make our program compatible with external graph viewer.  
