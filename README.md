@@ -199,10 +199,12 @@ Using "Graphviz" viewer for the example above (neato)
 ![neato-subject7](https://user-images.githubusercontent.com/52746061/204062210-c243ea72-f919-457a-9f5f-4148e02c7ff7.png)  
 Using "Graphviz" viewer for the example above (sfdp)  
 ![sfdp-subject7](https://user-images.githubusercontent.com/52746061/204062428-e2da07d5-9c04-4605-9146-65ad7a97529d.png)  
-Using "Visu-Hex" with a map generated randomly (size flow-thousand)  
+Using "Visu-Hex" viewer with a map generated randomly (size flow-thousand)  
 ![capture2](https://user-images.githubusercontent.com/52746061/204062920-acbe1bb9-8838-427f-af70-9695c59e4d7f.png)  
-Using "Visu-Hex" with a map generated randomly (size flow-thousand, Newton mode enabled)  
+Using "Visu-Hex" viewer with a map generated randomly (size flow-thousand, Newton mode enabled)  
 ![capture1](https://user-images.githubusercontent.com/52746061/204061826-e853f51d-c8a7-41de-9bec-e176bdeced0f.png)  
+Using "Graphviz" viewer with a map generated randomly (size flow-thousand, neato)  
+Using "Graphviz" viewer with a map generated randomly (size flow-thousand, sfdp)  
 
 ## Notes
 
