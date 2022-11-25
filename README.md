@@ -160,8 +160,8 @@ You can now combine the "Visu-Hex" with the "lem-in" program:
 Tip: keep the Left-Click (Mouse) on a room to change its position in live.
 
 ## 3rd-party Viewer
-A special option has been implemented to make our program compatible with external graph viewer.
-Use the '-v' option to generate a "DOT" file, compatible for example with Graphviz.
+A special option has been implemented to make our program compatible with external graph viewer.  
+Use the '-v' option to generate a "DOT" file, compatible for example with Graphviz.  
 
 Graphviz need to be installed on your system:
 ```
