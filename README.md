@@ -130,7 +130,7 @@ Both programs can be combined to use automatically the random map:
 ./maps/generator_linux --big | ./lem-in
 ```
 
-## Viewer
+## External Viewer
 A unique visualisator "Visu-Hex" has been developed for this project.
 This program has the particularity to be created with the Python language.  
 
@@ -160,7 +160,7 @@ Now, you can combine the "Visu-Hex" with "lem-in" program:
 
 Tip: keep the Left-Click (Mouse) on a room to change its position in live.
 
-## 3rd-party viewer
+## 3rd-party Viewer
 
 ## MAN (complete user manual)
 ```
