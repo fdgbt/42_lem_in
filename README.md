@@ -144,7 +144,6 @@ The use of Homebrew is facultative as you can install "python" and "pip3" on you
 ```
 brew install python
 brew install pip3
-pip3 install pygame
 ```
 
 Then, use the python3 official package manager "pip3" to install the "pygame" module:
