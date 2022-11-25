@@ -7,14 +7,14 @@ All the ants must move from point A to point B as fast as possible, considering 
 ## Expected Results
 
 ## Install
-Create or update both programs ("push_swap" and "checker") from sources.
+Create or update the "lem-in" program from sources.
 
 ```
 make
 ```
 
 ## Reinstall
-Recompile completely both programs.
+Recompile completely the program.
 
 ```
 make re
@@ -28,7 +28,7 @@ make clean
 ```
 
 ## Uninstall
-Delete object files but also both compiled programs.  
+Delete object files but also the compiled program.  
 It will not affect the source code.
 
 ```
@@ -44,5 +44,5 @@ make fclean
 ## Notes
 
 ## Keywords
-Graph theory
+Graph theory  
 Depth-first search algorithm (DFS)
