@@ -74,7 +74,7 @@ L11-end L12-end
 ```
 
 To conclude, the number of lines determines the number of laps taken by the simulation to transfert all the ants from the start room to the end room.  
-In the example above, 9 lines (laps) were necessary.
+In the example above, 9 lines (laps) were necessary to move the 12 ants from start to end.
 
 ## Install
 Create or update the "lem-in" program from sources.
