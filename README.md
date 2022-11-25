@@ -108,7 +108,7 @@ make fclean
 ## Usage
 
 ```
-./lem-in -c -l < maps/valid/subject7
+./lem-in < maps/valid/subject7
 ```
 
 ## Map Generator
