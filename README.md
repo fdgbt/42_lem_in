@@ -131,16 +131,16 @@ Both programs can be combined to use automatically the random map:
 ```
 
 ## Viewer
-A unique visualisator "Visu-Hex" has been developed for this project.
+A unique visualisator "Visu-Hex" has been developed for this project.  
 This program has the particularity to be created with the Python language.  
 
-The following packages must be installed on your system before to use the visualisator: 
+The following packages must be installed on your system before to use the visualisator:  
 - python (python3)
 - pip3
 
 If necessary, you can use the "Homebrew" package manager to install them.  
-Homebrew was originally designed to simplify the installation process on MacOs (indeed, there is a majority of Mac at 42).
-The use of Homebrew is facultative as you can install "python" and "pip3" on your own way, depending of your OS.
+Homebrew was originally designed to simplify the installation process on MacOs (indeed, there is a majority of Mac at 42).  
+The use of Homebrew is facultative as you can install "python" and "pip3" on your own way, depending of your OS.  
 ```
 brew install python
 brew install pip3
