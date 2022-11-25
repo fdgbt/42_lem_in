@@ -166,9 +166,13 @@ You can now combine the "Visu-Hex" with the "lem-in" program:
 
 ## 3rd-party Viewer
 A special option has been implemented to make our program compatible with external graph viewer.  
-Use the '-v' option to generate a "DOT" file, compatible for example with Graphviz.  
 
-Graphviz need to be installed on your system:
+Use the '-v' option to generate a ".DOT" file, compatible for example with "Graphviz":  
+```
+./lem-in -v < maps/valid/subject7
+```
+
+Graphviz needs to be installed on your system:
 ```
 brew install graphviz
 ```
@@ -203,7 +207,6 @@ Using "Visu-Hex" viewer with a map generated randomly (size flow-thousand)
 ![capture2](https://user-images.githubusercontent.com/52746061/204062920-acbe1bb9-8838-427f-af70-9695c59e4d7f.png)  
 Using "Visu-Hex" viewer with a map generated randomly (size flow-thousand, Newton mode enabled)  
 ![capture1](https://user-images.githubusercontent.com/52746061/204061826-e853f51d-c8a7-41de-9bec-e176bdeced0f.png)  
-Using "Graphviz" viewer with a map generated randomly (size flow-thousand, neato)  
 Using "Graphviz" viewer with a map generated randomly (size flow-thousand, sfdp)  
 ![capture3](https://user-images.githubusercontent.com/52746061/204063433-2e0e51d0-df08-4780-adeb-5d122bafa667.png)
 
