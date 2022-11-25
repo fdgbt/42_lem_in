@@ -157,7 +157,9 @@ You can now combine the "Visu-Hex" with the "lem-in" program:
 ./lem-in < maps/valid/subject7 | python3 src/visu/visu-hex.py -py3
 ```
 
-Tip: Hold the Left-Click (Mouse) on a room to change its position, release the click then look the funny graph reorganization in live!
+**Tips:**  
+- Use [SPACE] key to see the ants moving in live!
+- Hold the Left-Click (Mouse) on a room to change its position, release the click then look the funny graph reorganization in live!
 
 ## 3rd-party Viewer
 A special option has been implemented to make our program compatible with external graph viewer.  
