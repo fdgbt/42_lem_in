@@ -1,0 +1,14 @@
+55
+kit-chen 0 0
+##start
+livingroom 0 1
+toilet 0 2
+coridor 0 3
+##end
+room 0 4
+kitchen-livingroom
+livingroom-coridor
+toilet-coridor
+coridor-livingroom
+room-coridor
+room-livingroom
