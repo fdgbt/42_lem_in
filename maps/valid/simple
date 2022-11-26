@@ -1,0 +1,10 @@
+55
+##start
+hhh 1 1
+uuu 2 2
+jjj 3 3
+##end
+ppp 9 9
+hhh-uuu
+uuu-jjj
+jjj-ppp
