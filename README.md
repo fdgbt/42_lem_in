@@ -213,7 +213,7 @@ Using "Graphviz" viewer with a map generated randomly (size flow-thousand, sfdp)
 ## Notes
 To reach the highest level of optimization required in term of number of lines (laps), I had to implement a BFS algorithm.  
 For a same map (as in the example above), the best combination of paths can change in function of the number of ants.  
-To handle such case, I also had to implement a Superposition algorithm which consist of comparing the results of various BFS using different initial settings, for example with a increased minimal flow.
+To handle such cases, I also had to implement a Superposition algorithm which consist of comparing the results of various BFS using different initial settings, for example with a increased minimal flow.
 
 ## Keywords
 Graph theory  
